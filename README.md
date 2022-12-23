@@ -1,6 +1,14 @@
-# Vet-clinic
+# Clinic
 <a name="readme-top"></a>
 
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
 
 # 📗 Table of Contents
 
@@ -16,9 +24,7 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [Vet Clinic Database] <a name="about-project"></a>
 
-**Vet Clinic Database** is a database to manage data stored for a vet clinic. It uses PostgreSQL
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -34,10 +40,41 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **DB name - vet_clinic**
-- **Tables - animals**
+- **DB name - Clinic**
+
+- [ ] **How to create a database in POSTGRESQL**
+- [ ] **How to manage privileges for a user to a database or table**
+- [ ] **What does DDL and DML stand for**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+
+
+### Prerequisites
+
+In order to run this project you need:
+
+> - Git
+> - IDE(e.g.: VsCode, Sublime,...)
+> - Proficiency in the use of SQL QUERIES
+> - Install Postgresql
+> 
+### Setup
+
+Clone this repository to your desired folder:
+
+```
+git clone https://github.com/Masouma864/Clinic.git
+
+cd vet-clinic
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -46,14 +83,23 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors1 <a name="authors"></a>
 
-👤 **Masoum Modarresi**
+👤 **Masouma Modarresi**
 
-- GitHub: [@githubhandle](https://github.com/Masouma864)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/masouma-modarresi)
+- GitHub: [@masouma](https://github.com/Masouma864)
+- LinkedIn: [@masouma](https://www.linkedin.com/in/masouma-modarresi)
+
+👤 **Author2**
+👤 **Ekpenisi Erue Raphael**
+
+- GitHub: [@eerapheal](https://github.com/eerapheal)
+- Twitter: [@ekpenisiraphael](https://twitter.com/ekpenisiraphael)
+- LinkedIn: [ekpenisi-e-raphael-9678a221a](https://www.linkedin.com/in/ekpenisi-e-raphael-9678a221a/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -62,6 +108,8 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -79,6 +127,6 @@ I would like to thank
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT license](https://choosealicense.com/licenses/mit/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
