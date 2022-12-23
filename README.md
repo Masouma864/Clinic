@@ -46,12 +46,19 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors1 <a name="authors"></a>
 
 👤 **Masoum Modarresi**
 
 - GitHub: [@githubhandle](https://github.com/Masouma864)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/masouma-modarresi)
+
+👤 **Author2**
+👤 **Ekpenisi Erue Raphael**
+
+- GitHub: [@eerapheal](https://github.com/eerapheal)
+- Twitter: [@ekpenisiraphael](https://twitter.com/ekpenisiraphael)
+- LinkedIn: [ekpenisi-e-raphael-9678a221a](https://www.linkedin.com/in/ekpenisi-e-raphael-9678a221a/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
