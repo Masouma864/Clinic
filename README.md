@@ -1,4 +1,4 @@
-# Clinic
+
 <a name="readme-top"></a>
 
 <div align="center">
@@ -25,6 +25,35 @@
 - [📝 License](#license)
 
 
+# 📖 Vet Clinic Database <a name="about-project"></a>
+
+> - Created based on the popular SQL Relational Database using Postgresql
+> - Learned The following concepts -:
+>   - What’s a database
+>   - What’s a relational database
+>   - What does SQL stand for
+>   - What’s POSTGRESQL
+>   - How to create a database in POSTGRESQL
+>   - What does DDL and DML stand for
+>   - How to CREATE or ALTER a table
+>   - How to SELECT data from a table
+>   - How to INSERT, UPDATE or DELETE data
+>   - What are subqueries
+>   - How to create a new POSTGRESQL user
+>   - How to manage privileges for a user to a database or table
+>   - What’s a PRIMARY KEY
+>   - What’s a FOREIGN KEY
+>   - How to use NOT NULL and UNIQUE constraints
+>   - How to retrieve datas from multiple tables in one request
+>   - What are subqueries
+>   - What are JOIN and UNION
+>   - schema based on diagram
+
+
+## Diagram Picture
+     Vet_clinic_diagram.PNG
+
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,7 +69,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **DB name - Clinic**
+- **DB name - vet-clinic**
 
 - [ ] **How to create a database in POSTGRESQL**
 - [ ] **How to manage privileges for a user to a database or table**
@@ -68,7 +97,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/Masouma864/Clinic.git
+git clone https://github.com/Masouma864/Vet-clinic.git
 
 cd vet-clinic
 ```
